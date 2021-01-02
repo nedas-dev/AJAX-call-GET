@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body main {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  margin-top: 2rem;
+  background-color: #84a4b1;
+  min-height: 50px;
+  border-radius: 5px;
+  padding: 50px 0px; }
+  body main button {
+    padding: 10px; }
+  body main ul.style {
+    display: none;
+    margin-top: 1rem;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif; }
+    body main ul.style li {
+      color: #ebf2ec;
+      width: 90%;
+      margin: auto;
+      padding: 5px;
+      border: 1px solid #4f4fab;
+      margin-bottom: 1rem; }
+      body main ul.style li:hover {
+        color: black; }
+      body main ul.style li.full {
+        background-color: darkgrey; }

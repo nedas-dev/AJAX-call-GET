@@ -1,0 +1,16 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "Implementing AJAX",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Nedas Snarskis",
+  "license": "MIT",
+  "dependencies": {
+    "node-js": "^1.0.0",
+    "node-sass": "^5.0.0",
+    "node.js": "0.0.1-security"
+  }
+}
